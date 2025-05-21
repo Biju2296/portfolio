@@ -5,7 +5,7 @@ This project showcases my skills, projects, and work experience as a Software Te
 
 ## 🚀 Live Site
 
-🌐 **Live URL**: https://stephen-chitaranjan-portfolio.netlify.app
+🌐 **Live URL**: https://biju2296.github.io/portfolio/
 
 ---
 
